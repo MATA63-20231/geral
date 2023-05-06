@@ -8,7 +8,7 @@ Projeto desenvolvido como parte da ementa da disciplina MATA63 - Engenharia de S
   * Acesso ao sistema: [TODO]; 
   * Requisitos e histórias de usuário: https://github.com/MATA63-20231/geral/blob/main/user-stories.md;
   * Projeto do Jira: https://mata63.atlassian.net/jira/software/projects/ENG/boards/1;
-  * Repositório do frontend: https://github.com/MATA63-20231/frontend.
+  * Repositório do frontend: https://github.com/MATA63-20231/frontend;
   * Repositório do backend: https://github.com/MATA63-20231/backend.
 
 ## Equipe
