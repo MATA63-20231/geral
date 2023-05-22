@@ -7,6 +7,7 @@ Projeto desenvolvido como parte da ementa da disciplina MATA63 - Engenharia de S
 ## Links úteis
   * Acesso ao sistema: [TODO]; 
   * Requisitos e histórias de usuário: https://github.com/MATA63-20231/geral/blob/main/user-stories.md;
+  * Diagrama de casos de uso: https://github.com/MATA63-20231/geral/blob/main/user-stories.md
   * Projeto do Jira: https://mata63.atlassian.net/jira/software/projects/ENG/boards/1;
   * Repositório do frontend: https://github.com/MATA63-20231/frontend;
   * Repositório do backend: https://github.com/MATA63-20231/backend.
@@ -16,3 +17,6 @@ Projeto desenvolvido como parte da ementa da disciplina MATA63 - Engenharia de S
   * Lucas Morais;
   * Matheus Soares;
   * Paulo Júnior.
+
+## Reuniões semanais
+ * Comunicação assíncrona pelo WhattsApp;
