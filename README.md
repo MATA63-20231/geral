@@ -7,7 +7,7 @@ Projeto desenvolvido como parte da ementa da disciplina MATA63 - Engenharia de S
 ## Links úteis
 
 ### Gerais
-  * Acesso ao sistema: [TODO]; 
+  * Acesso ao sistema: https://chef-virtual.netlify.app/; 
   * Repositório do frontend: https://github.com/MATA63-20231/frontend;
   * Repositório do backend: https://github.com/MATA63-20231/backend;
   * Projeto do Jira: https://mata63.atlassian.net/jira/software/projects/ENG/boards/1.
