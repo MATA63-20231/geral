@@ -49,5 +49,3 @@ Abaixo seguem as *user stories*, identificadas unicamente por um código de pref
 * 🟨 **Em progresso:**            Elencado um responsável e iniciada a implementação;
 * 🟥 **A realizar:**              Não foi iniciada a implementação.
 
-# Requisitos não-funcionais
- 
