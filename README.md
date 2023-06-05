@@ -4,6 +4,8 @@ Aplicativo de criação de receitas: um aplicativo que permite criar e compartil
 
 Projeto desenvolvido como parte da ementa da disciplina MATA63 - Engenharia de Software II, sob orientação do professor Ivan do Carmo Machado.
 
+O projeto conta com três repositórios: **Geral**, **Frontend** e **Backend**, uma vez que é posível configurar os deploys, permissões e pipelines de CI/CD individualmente.
+
 ## Links úteis
 
 ### Gerais
